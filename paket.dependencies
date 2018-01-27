@@ -1,0 +1,15 @@
+source https://nuget.org/api/v2
+
+nuget Fake >= 5.0.0-beta010
+nuget Fake.Core.Target prerelease
+nuget Fake.Core.Globbing prerelease
+nuget Fake.Core.SemVer prerelease
+nuget Fake.IO.FileSystem prerelease
+nuget Fake.IO.Zip prerelease
+nuget Fake.DotNet.Testing.MSpec prerelease
+nuget Fake.DotNet.Testing.XUnit2 prerelease
+nuget Fake.DotNet.Testing.NUnit prerelease
+nuget Fake.DotNet.AssemblyInfoFile prerelease
+nuget Fake.DotNet.MsBuild prerelease
+nuget Fake.DotNet.Cli prerelease
+nuget Fake.DotNet.NuGet prerelease
